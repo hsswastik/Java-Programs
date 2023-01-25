@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class a1{
+class SumAndProductOfElements{
 public static void main(String [] args){
 
 Scanner sc = new Scanner(System.in);
